@@ -43,5 +43,11 @@ Use deep learning (CNN) to classify images of **four plastic types** to automate
 - Confusion matrix showing correct vs. incorrect classifications
 
 ## 📁 Directory Structure
+## 👩‍💻 Author
 
+Seniya Sultan Jemal
+
+## ✅ Status
+
+✔️ Completed
 
